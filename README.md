@@ -99,7 +99,7 @@ Instead of only learning theory, this project focuses on **practical implementat
 
 ---
 
-## ⚔️ Attack Simulation
+## ⚔️  Simulation
 
 ### XSS Attack
 ```json
