@@ -65,3 +65,42 @@ baycpu block --ip 192.168.1.1
 git commit -m "Add DDoS protection with rate limiting"
 git commit -m "Implement XSS detection using regex"
 git commit -m "Add logging system"
+
+# 💀 Mini WAF API
+> A lightweight Web Application Firewall built to detect and block real-world attacks.
+
+---
+
+## 🛡️ Overview
+
+This project is a self-built Web Application Firewall designed to simulate real-world defense mechanisms against common web attacks.
+
+Instead of only learning theory, this project focuses on **practical implementation of attack detection and mitigation**.
+
+---
+
+## 🔥 Features
+
+- 🚫 **DDoS Protection**
+  - Rate limiting per IP
+  - Temporary IP blocking
+
+- 💀 **XSS Detection**
+  - Pattern-based detection
+  - Input normalization to prevent bypass
+
+- 🧠 **SQL Injection Detection**
+  - Detects common injection patterns
+  - Filters malicious payloads
+
+- 📊 **Logging System**
+  - Tracks suspicious activity
+  - Helps analyze attack behavior
+
+---
+
+## ⚔️ Attack Simulation
+
+### XSS Attack
+```json
+{"data": "<script>alert(1)</script>"}
