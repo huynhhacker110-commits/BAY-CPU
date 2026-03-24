@@ -104,3 +104,20 @@ Instead of only learning theory, this project focuses on **practical implementat
 ### XSS Attack
 ```json
 {"data": "<script>alert(1)</script>"}
+
+# 🔥 Mini WAF API
+
+A lightweight Web Application Firewall built with FastAPI.
+
+## 🛡️ Features
+- Anti DDoS (Rate Limiting)
+- XSS Detection
+- SQL Injection Detection
+- IP Blacklisting
+- Logging System
+
+## 💀 Demo
+
+Example attack:
+```json
+{"data":"<script>alert(1)</script>"}
