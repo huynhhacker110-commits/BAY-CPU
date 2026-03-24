@@ -36,5 +36,9 @@ BAY-CPU/
 ├── utils/
 │   ├── logger.py
 │   ├── config.py
-├── cli.py
+├── cli.py bạn
 └── main.py
+
+baycpu start
+baycpu monitor
+baycpu block --ip 192.168.1.1
