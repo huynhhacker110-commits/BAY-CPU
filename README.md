@@ -6,6 +6,8 @@
 - 💀 Kali Linux (Nmap, sqlmap)
 - 🧠 Python Developer
 
+A lightweight web security system designed to detect and mitigate common attacks such as DDoS and XSS using Python.
+
 ## 🔥 Current Project
 Mini Web Security System
 
