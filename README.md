@@ -53,3 +53,7 @@ BAY-CPU/
 baycpu start
 baycpu monitor
 baycpu block --ip 192.168.1.1
+
+git commit -m "Add DDoS protection with rate limiting"
+git commit -m "Implement XSS detection using regex"
+git commit -m "Add logging system"
