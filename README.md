@@ -1,3 +1,5 @@
+A lightweight web protection tool that detects and blocks spam, bots, and suspicious traffic automatically.
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
