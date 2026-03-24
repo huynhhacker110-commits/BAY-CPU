@@ -121,3 +121,7 @@ A lightweight Web Application Firewall built with FastAPI.
 Example attack:
 ```json
 {"data":"<script>alert(1)</script>"}
+
+@app.post("/check")
+async def check(data: dict):
+    return {"result": detect_xss(data["input"])}
