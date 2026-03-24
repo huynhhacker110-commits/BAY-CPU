@@ -1,3 +1,9 @@
+## ⚙️ Features
+- Rate limiting to prevent DDoS attacks
+- IP blocking system
+- XSS detection using regex patterns
+- Logging suspicious requests
+
 # 😈 Huỳnh Trịnh
 
 ## 💻 Backend & Security Learner
