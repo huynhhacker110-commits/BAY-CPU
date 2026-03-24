@@ -125,3 +125,7 @@ Example attack:
 @app.post("/check")
 async def check(data: dict):
     return {"result": detect_xss(data["input"])}
+
+@app.post("/check")
+async def check(data: dict):
+    return {"result": detect_xss(data["input"])}
