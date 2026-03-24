@@ -135,3 +135,7 @@ timestamp + IP + reason
 ## 🎯 Use Case
 - Protect small web apps from common attacks
 - Educational security testing
+
+Backend & Cybersecurity Learner  
+Building Web Security Tools 🛡️  
+Python | FastAPI | Security
