@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
+
 # 🛡️ BAY-CPU - Advanced Security Toolkit
 
 A powerful Python-based security toolkit designed to detect and mitigate various types of cyber attacks including:
