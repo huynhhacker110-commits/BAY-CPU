@@ -1,3 +1,14 @@
+# 😈 Huỳnh Trịnh
+
+## 💻 Backend & Security Learner
+
+- 🛡️ Web Security (DDoS, XSS)
+- 💀 Kali Linux (Nmap, sqlmap)
+- 🧠 Python Developer
+
+## 🔥 Current Project
+Mini Web Security System
+
 A lightweight web protection tool that detects and blocks spam, bots, and suspicious traffic automatically.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
