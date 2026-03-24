@@ -23,3 +23,18 @@ A powerful Python-based security toolkit designed to detect and mitigate various
 ## ⚠️ Disclaimer
 This tool is developed for educational and defensive purposes only.
 Do not use it for illegal activities.
+
+
+
+BAY-CPU/
+├── core/
+│   ├── engine.py
+│   ├── defender.py
+├── modules/
+│   ├── antibot.py
+│   ├── xss.py
+├── utils/
+│   ├── logger.py
+│   ├── config.py
+├── cli.py
+└── main.py
