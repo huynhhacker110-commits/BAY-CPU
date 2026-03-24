@@ -131,3 +131,7 @@ async def check(data: dict):
     return {"result": detect_xss(data["input"])}
 
 timestamp + IP + reason
+
+## 🎯 Use Case
+- Protect small web apps from common attacks
+- Educational security testing
