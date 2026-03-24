@@ -129,3 +129,5 @@ async def check(data: dict):
 @app.post("/check")
 async def check(data: dict):
     return {"result": detect_xss(data["input"])}
+
+timestamp + IP + reason
