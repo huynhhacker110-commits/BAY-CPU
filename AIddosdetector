@@ -1,0 +1,3 @@
+detector.train(training_data)  # Train the model
+detector.detect(request_data)  # Returns (is_attack, confidence)
+detector.get_threat_report()   # Get threat statistics
