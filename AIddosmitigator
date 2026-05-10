@@ -1,0 +1,4 @@
+mitigator.handle_request(ip, data)        # Check rate limit
+mitigator.block_ip(ip, duration)          # Block an IP
+mitigator.unblock_ip(ip)                  # Unblock an IP
+mitigator.get_mitigation_stats()          # Get statistics
