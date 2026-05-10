@@ -1,0 +1,3 @@
+captcha.generate_captcha(ip)              # Generate CAPTCHA
+captcha.validate_captcha(session, answer, ip)  # Validate answer
+captcha.get_stats()                       # Get statistics
