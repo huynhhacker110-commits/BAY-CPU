@@ -1,0 +1,4 @@
+cf.enable_ddos_protection(level)          # Set protection level
+cf.add_ip_to_whitelist(ip)                # Whitelist IP
+cf.add_ip_to_blacklist(ip)                # Blacklist IP
+cf.get_analytics(start, end)              # Get analytics
