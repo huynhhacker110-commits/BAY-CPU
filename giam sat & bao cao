@@ -1,0 +1,23 @@
+# Get system status
+status = system.get_system_status()
+print(status)
+
+# Generate security report
+report = system.generate_report()
+print(report)
+
+# Get detector threat report
+threat_report = system.detector.get_threat_report()
+print(threat_report)
+
+# Get mitigator statistics
+mitigation_stats = system.mitigator.get_mitigation_stats()
+print(mitigation_stats)
+
+# Get CAPTCHA statistics
+captcha_stats = system.captcha.get_stats()
+print(captcha_stats)
+
+# Get learning insights
+learning_insights = system.learning.get_learning_insights()
+print(learning_insights)
