@@ -1,0 +1,6 @@
+learning.log_event(type, data, is_attack, confidence)  # Log event
+learning.analyze_feedback(pred, actual, conf)          # Analyze
+learning.adapt_threshold()                # Adjust threshold
+learning.get_learning_insights()          # Get insights
+learning.save_model()                     # Save to disk
+learning.load_model()                     # Load from disk
