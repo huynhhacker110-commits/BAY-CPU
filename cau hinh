@@ -1,0 +1,6 @@
+from main import AntiDDoSProtectionSystem
+
+system = AntiDDoSProtectionSystem(
+    cloudflare_token="YOUR_API_TOKEN",
+    zone_id="YOUR_ZONE_ID"
+)
